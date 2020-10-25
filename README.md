@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Nikita Drozdov
-* Codeship : 
+* Codeship : [![Codeship Status for pepya4ka/javaschoolexam](https://app.codeship.com/projects/dc0bbfdf-c336-447a-8796-716e924a3f63/status?branch=master)](https://app.codeship.com/projects/415562)
 
 
 ### How to start?  ###
