@@ -12,8 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Nikita Drozdov
-* Codeship : [![Codeship Status for pepya4ka/javaschoolexam](https://app.codeship.com/projects/dc0bbfdf-c336-447a-8796-716e924a3f63/status?branch=master)](https://app.codeship.com/projects/415562)
-
+* Codeship : [![Codeship Status for pepyachka/javaschoolexam](https://app.codeship.com/projects/134c20fc-9cc3-4515-a880-2ff7e0063e83/status?branch=master)](https://app.codeship.com/projects/415751)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
